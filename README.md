@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at [https://md-rahat-hossain.netlify.app/](https://md-rahat-hossain.netlify.app/)
 
+- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
