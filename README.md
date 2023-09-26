@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat848&label=Profile%20views&color=0e75b6&style=flat" alt="rahat848" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://md-rahat-hossain.netlify.app/](https://md-rahat-hossain.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+- 👨‍💻 All of my projects are available at [https://md-rahat-hossain.netlify.app/] (https://md-rahat-hossain.netlify.app/)
 
 - ⚡ Fun fact **I am funny😅**
 
