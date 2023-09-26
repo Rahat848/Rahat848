@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.youtube.com/@rh444bd" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" alt="rh444" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
