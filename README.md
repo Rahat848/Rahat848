@@ -6,7 +6,7 @@
 
 - 👨‍💻 My Portfolio Link : https://md-rahat-hossain.netlify.app/
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact : **😅 I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
